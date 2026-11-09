@@ -1,0 +1,7 @@
+{
+  "name": "DIMENSION — Experimental Creative Lab",
+  "description": "An award-winning immersive 3D digital art laboratory built with WebGL2, custom GLSL shaders, and reactive organic geometry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
